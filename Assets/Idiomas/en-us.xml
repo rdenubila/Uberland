@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<idioma>
+
+	<geral>
+		<txt value="Close" />
+		<txt value="Continue" />
+		<txt value="Restart" />
+		<txt value="Exit to Menu" />
+		<txt value="Exit Game" />
+		<txt value="Play Again" />
+
+		<txt value="Shield" />
+		<txt value="Repair Car" />
+		<txt value="Slow motion" />
+
+		<txt value="Cancel" />
+		<txt value="Earn" />
+
+	</geral>
+
+	<preloader>
+
+		<txt value="Altere a direção do veículo para setas ou acelerômetro através das configurações no menu inicial." />
+
+		<txt value="Faça login no Facebook e participe do Ranking Mundial do Jogo" />
+
+		<txt value="Você pode assistir anúncios em troca de Power Ups" />
+
+		<txt value="Utilize os Power Ups para tornar a sua vida mais fácil, basta tocar nos ícones no lado direito da tela" />
+
+		<txt value="A cada passageiro entregue, mais táxis irão te perseguir" />
+
+	</preloader>
+
+	<facebook>
+		<txt value="Sign in with Facebook to submit your score" />
+	</facebook>
+
+	<menu>
+		
+		<btns>
+			<txt value="Play" />
+		</btns>
+
+		<config>
+			<txt value="Settings" />
+			<txt value="Credits" />
+			<txt value="Music and BR;sound effects" />
+			<txt value="Exit Game" />
+			<txt value="Design e Coding" />
+			<txt value="Sound Design" />
+			<txt value="Special Thanks to: Ronaldo Gazel" />
+
+			<txt value="Language" />
+			<txt value="Control" />
+
+			<txt value="Steering wheel" />
+			<txt value="Arrows" />
+			<txt value="Accelerometer" />
+
+		</config>
+
+		<compra>
+			<txt value="Purchase" />
+			<txt value="" />
+			<txt value="" />
+
+			<txt value="Car endurance" />
+			<txt value="Reduces the damage you take on hits" />
+			<txt value="Car Repair" />
+			<txt value="Increases the amount of reapair on the car" />
+			<txt value="Shield" />
+			<txt value="Increases shield duration" />
+			<txt value="Slow Motion" />
+			<txt value="Increases slow motion duration" />
+			
+		</compra>
+
+
+	</menu>
+
+	<tutorial>
+			
+			<txt value="Use these pedals to accelerate, break and reverse the car" />
+			<txt value="Use o volante para BR;virar o carro" />
+			<txt value="This yellow marker shows the position of your passengers and their destiny.At the destination, a luminous spot indicates where to stop." />
+			<txt value="Be careful! While a passenger is on the car, taxi drivers will start to chase you. These yellow arrows show where they're coming from" />
+			<txt value="Use Power Ups to make your life easier." />
+			<txt value="You can also watch some advertisement to get free Power Ups!" />
+			
+			<txt value="Watch the entire ad to get the Power Up for free." />
+			<txt value="Don't show this again." />
+			<txt value="Watch advertisement." />
+
+			<txt value="" />
+			<txt value="" />
+			<txt value="" />
+			<txt value="" />
+			<txt value="" />
+			<txt value="" />
+			<txt value="" />
+
+		</tutorial>
+
+	<jogo>
+
+		<txt value="Damage" />
+		<txt value="Cash" />
+		<txt value="You earned" />
+
+	</jogo>
+
+</idioma>

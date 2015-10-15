@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 89c6cb3d77d63c14fb5500dbf22593a9
+timeCreated: 1442461907
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: uberland_0
+    21300002: uberland_1
+    21300004: uberland_2
+    21300006: uberland_3
+    21300008: uberland_4
+    21300010: uberland_5
+    21300012: uberland_6
+    21300014: uberland_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: uberland_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 39
+        width: 268
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 44
+        width: 252
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_2
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 44
+        width: 227
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 44
+        width: 268
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_4
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 44
+        width: 215
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_5
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 44
+        width: 291
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_6
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 44
+        width: 271
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uberland_7
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 44
+        width: 252
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

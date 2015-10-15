@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{21905856-2B47-5365-1F1B-C542E238D5F0}") = "Uberland", "Assembly-CSharp-vs.csproj", "{5B8878D9-EB68-A74B-A2D9-B9D53CD05BC6}"
+EndProject
+Project("{21905856-2B47-5365-1F1B-C542E238D5F0}") = "Uberland", "Assembly-CSharp-Editor-vs.csproj", "{87C4EDCD-9647-B6D9-75F1-6120C48D6046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8878D9-EB68-A74B-A2D9-B9D53CD05BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8878D9-EB68-A74B-A2D9-B9D53CD05BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8878D9-EB68-A74B-A2D9-B9D53CD05BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8878D9-EB68-A74B-A2D9-B9D53CD05BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C4EDCD-9647-B6D9-75F1-6120C48D6046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C4EDCD-9647-B6D9-75F1-6120C48D6046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C4EDCD-9647-B6D9-75F1-6120C48D6046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C4EDCD-9647-B6D9-75F1-6120C48D6046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

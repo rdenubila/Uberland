@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: a2f163eeb5aaceb4aaafb757b18c1816
+timeCreated: 1444789818
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botoes_0
+    21300002: botoes_1
+    21300004: botoes_2
+    21300006: botoes_3
+    21300008: botoes_4
+    21300010: botoes_5
+    21300012: botoes_6
+    21300014: botoes_7
+    21300016: botoes_8
+    21300018: botoes_9
+    21300020: botoes_10
+    21300022: botoes_11
+    21300024: botoes_12
+    21300026: botoes_13
+    21300028: botoes_14
+    21300030: botoes_15
+    21300032: botoes_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: botoes_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1809
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1809
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_2
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1809
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1454
+        width: 327
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1456
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1456
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1101
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1101
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1101
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 746
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 746
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 746
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 391
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 391
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 440
+        width: 244
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 327
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botoes_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 137
+        width: 303
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
